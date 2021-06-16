@@ -1,0 +1,8 @@
+{
+  "name": "eventM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "8c5ac12e"
+}
