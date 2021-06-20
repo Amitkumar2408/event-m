@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "eventM",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
