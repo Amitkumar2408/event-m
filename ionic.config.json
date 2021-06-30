@@ -1,0 +1,7 @@
+{
+  "name": "event-m",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
