@@ -2,7 +2,7 @@
   <base-layout pageTitle="All Memories">
     <ion-list>
       <!-- <ion-item router-link="/memories/1"></ion-item> -->
-      {{data}}
+      {{ data }}
       <ion-item
         v-for="memory in memories"
         :router-link="`/memories/${memory.id}`"
