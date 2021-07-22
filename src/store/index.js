@@ -46,6 +46,11 @@ const store = createStore({
     memories(state) {
       return state.memories;
     },
+    memory(state) {
+      return (memoryID) => {
+        return state.memories.find((memory) => memory.id === memoryID);
+      };
+    },
   },
 });
 
